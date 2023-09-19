@@ -1,0 +1,1 @@
+files/texture/ddiz/walls/f_fi.gif

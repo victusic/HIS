@@ -1,0 +1,5 @@
+bn=b1·qn-1
+bn+1=bn·q
+ bn+1·bn-1=bn2,b‡0 
+Sn=(b1(qn-1))/(q-1), q‡1
+Sn=b1/(1-q), q‡1

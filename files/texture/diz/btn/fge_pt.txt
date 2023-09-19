@@ -1,0 +1,1 @@
+files/texture/ddiz/btn/fge_pt.gif

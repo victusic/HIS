@@ -1,0 +1,1 @@
+files/texture/bdiz/walls/fge_ts.gif
